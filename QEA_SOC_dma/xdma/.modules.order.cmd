@@ -1,0 +1,1 @@
+cmd_/home/duy/alveo/2020.2/QUANTUM_EMULATOR/QEA_SOC_dma/xdma/modules.order := {   echo /home/duy/alveo/2020.2/QUANTUM_EMULATOR/QEA_SOC_dma/xdma/xdma.ko; :; } | awk '!x[$$0]++' - > /home/duy/alveo/2020.2/QUANTUM_EMULATOR/QEA_SOC_dma/xdma/modules.order

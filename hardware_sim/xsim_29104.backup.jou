@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# xsim v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Mar 11 21:46:31 2025
+# Process ID: 29104
+# Current directory: C:/Data/Naist/Research/Software/QEA_Internal_BRAM/fast-psr/hardware_sim
+# Command line: xsim.exe -mode tcl -source {xsim.dir/tb_snapshot_TB_QEA_QFT_14_qubits/xsim_script.tcl}
+# Log file: C:/Data/Naist/Research/Software/QEA_Internal_BRAM/fast-psr/hardware_sim/xsim.log
+# Journal file: C:/Data/Naist/Research/Software/QEA_Internal_BRAM/fast-psr/hardware_sim\xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/tb_snapshot_TB_QEA_QFT_14_qubits/xsim_script.tcl
+run -all

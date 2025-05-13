@@ -1,0 +1,1 @@
+cmd_/home/duy/alveo/2020.2/QUANTUM_EMULATOR/QEA_SOC_dma/xdma/xdma.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/duy/alveo/2020.2/QUANTUM_EMULATOR/QEA_SOC_dma/xdma/xdma.ko /home/duy/alveo/2020.2/QUANTUM_EMULATOR/QEA_SOC_dma/xdma/xdma.o /home/duy/alveo/2020.2/QUANTUM_EMULATOR/QEA_SOC_dma/xdma/xdma.mod.o;  true

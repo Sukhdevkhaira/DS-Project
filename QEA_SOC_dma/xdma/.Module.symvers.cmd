@@ -1,0 +1,1 @@
+cmd_/home/duy/alveo/2020.2/QUANTUM_EMULATOR/QEA_SOC_dma/xdma/Module.symvers := sed 's/\.ko$$/\.o/' /home/duy/alveo/2020.2/QUANTUM_EMULATOR/QEA_SOC_dma/xdma/modules.order | scripts/mod/modpost -m -a  -o /home/duy/alveo/2020.2/QUANTUM_EMULATOR/QEA_SOC_dma/xdma/Module.symvers -e -i Module.symvers   -T -

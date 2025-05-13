@@ -1,0 +1,3 @@
+Program started at time 2608000 ns
+Program ended at time 49868000 ns
+Execution time = 47260000 ns
